@@ -19,9 +19,10 @@ status-website:
   cname: uptime.xagentx.link
   robotsText: "User-agent: * \n Disallow: /"
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Uptime is powered by Upptime"
+  name: Uptime
+  introTitle: "Current Status"
   introMessage: "Go to here for more status if it's not down: [Click Me](https://status.xagentx.link)"
+  theme: dark
   navbar:
     - title: Status
       href: /
