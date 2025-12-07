@@ -4,10 +4,10 @@
     "url": "https://syoj.org",
     "icon": "https://icons.duckduckgo.com/ip3/syoj.org.ico",
     "slug": "syoj",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "56.85%",
-    "uptimeWeek": "93.84%",
+    "uptimeDay": "56.75%",
+    "uptimeWeek": "93.82%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "98.29%",
     "time": 2443,
@@ -16,7 +16,7 @@
     "timeMonth": 2707,
     "timeYear": 2443,
     "dailyMinutesDown": {
-      "2025-12-07": 622,
+      "2025-12-07": 623,
       "2025-11-03": 250
     }
   },
@@ -25,10 +25,10 @@
     "url": "https://cloud.xagentx.link",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.xagentx.link.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.41%",
-    "uptimeDay": "61.06%",
-    "uptimeWeek": "94.44%",
+    "uptimeDay": "60.99%",
+    "uptimeWeek": "94.43%",
     "uptimeMonth": "98.72%",
     "uptimeYear": "98.41%",
     "time": 2932,
@@ -37,7 +37,7 @@
     "timeMonth": 3243,
     "timeYear": 2932,
     "dailyMinutesDown": {
-      "2025-12-07": 560,
+      "2025-12-07": 561,
       "2025-11-03": 250
     }
   },
