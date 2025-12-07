@@ -4,10 +4,10 @@
     "url": "https://syoj.org",
     "icon": "https://icons.duckduckgo.com/ip3/syoj.org.ico",
     "slug": "syoj",
-    "status": "up",
+    "status": "down",
     "uptime": "98.37%",
-    "uptimeDay": "59.63%",
-    "uptimeWeek": "94.23%",
+    "uptimeDay": "59.43%",
+    "uptimeWeek": "94.20%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "98.37%",
     "time": 2345,
@@ -16,7 +16,7 @@
     "timeMonth": 2602,
     "timeYear": 2345,
     "dailyMinutesDown": {
-      "2025-12-07": 582,
+      "2025-12-07": 585,
       "2025-11-03": 250
     }
   },
@@ -25,10 +25,10 @@
     "url": "https://cloud.xagentx.link",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.xagentx.link.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.52%",
-    "uptimeDay": "65.09%",
-    "uptimeWeek": "95.01%",
+    "uptimeDay": "64.93%",
+    "uptimeWeek": "94.99%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "98.52%",
     "time": 2852,
@@ -37,7 +37,7 @@
     "timeMonth": 3154,
     "timeYear": 2852,
     "dailyMinutesDown": {
-      "2025-12-07": 502,
+      "2025-12-07": 504,
       "2025-11-03": 250
     }
   },
@@ -46,10 +46,10 @@
     "url": "https://xagentx.link",
     "icon": "https://icons.duckduckgo.com/ip3/xagentx.link.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "98.56%",
-    "uptimeDay": "75.93%",
-    "uptimeWeek": "96.56%",
+    "uptimeDay": "75.87%",
+    "uptimeWeek": "96.55%",
     "uptimeMonth": "98.89%",
     "uptimeYear": "98.56%",
     "time": 2806,
@@ -58,7 +58,7 @@
     "timeMonth": 2786,
     "timeYear": 2806,
     "dailyMinutesDown": {
-      "2025-12-07": 346,
+      "2025-12-07": 347,
       "2025-11-18": 138,
       "2025-11-03": 250
     }
