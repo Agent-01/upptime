@@ -4,17 +4,17 @@
     "url": "https://syoj.org",
     "icon": "https://icons.duckduckgo.com/ip3/syoj.org.ico",
     "slug": "syoj",
-    "status": "up",
+    "status": "down",
     "uptime": "98.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "92.67%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "98.40%",
+    "uptimeMonth": "92.92%",
     "uptimeYear": "98.23%",
-    "time": 1736,
-    "timeDay": 840,
-    "timeWeek": 993,
-    "timeMonth": 1325,
-    "timeYear": 1736,
+    "time": 1742,
+    "timeDay": 2120,
+    "timeWeek": 1260,
+    "timeMonth": 1382,
+    "timeYear": 1742,
     "dailyMinutesDown": {
       "2025-11-03": 250,
       "2025-12-07": 660,
@@ -29,7 +29,8 @@
       "2026-06-16": 320,
       "2026-07-03": 413,
       "2026-07-02": 1440,
-      "2026-07-01": 914
+      "2026-07-01": 914,
+      "2026-07-10": 6
     }
   },
   {
@@ -37,11 +38,11 @@
     "url": "https://cloud.xagentx.link",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.xagentx.link.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "98.25%",
     "time": 1772,
     "timeDay": 1417,
@@ -64,7 +65,8 @@
       "2026-06-16": 316,
       "2026-07-03": 413,
       "2026-07-02": 1440,
-      "2026-07-01": 909
+      "2026-07-01": 909,
+      "2026-07-10": 1
     }
   },
   {
@@ -72,17 +74,17 @@
     "url": "https://xagentx.link",
     "icon": "https://icons.duckduckgo.com/ip3/xagentx.link.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "98.29%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "98.29%",
-    "time": 1684,
-    "timeDay": 745,
-    "timeWeek": 916,
-    "timeMonth": 1214,
-    "timeYear": 1684,
+    "time": 1685,
+    "timeDay": 1459,
+    "timeWeek": 1056,
+    "timeMonth": 1241,
+    "timeYear": 1685,
     "dailyMinutesDown": {
       "2025-11-03": 250,
       "2025-11-18": 138,
@@ -99,7 +101,8 @@
       "2026-06-16": 315,
       "2026-07-03": 413,
       "2026-07-02": 1440,
-      "2026-07-01": 908
+      "2026-07-01": 908,
+      "2026-07-10": 0
     }
   },
   {
@@ -107,17 +110,17 @@
     "url": "https://chat.xagentx.link",
     "icon": "https://icons.duckduckgo.com/ip3/chat.xagentx.link.ico",
     "slug": "open-web-ui",
-    "status": "up",
+    "status": "down",
     "uptime": "98.33%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.31%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.46%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "98.33%",
-    "time": 1413,
-    "timeDay": 729,
-    "timeWeek": 915,
-    "timeMonth": 1167,
-    "timeYear": 1413,
+    "time": 1418,
+    "timeDay": 1789,
+    "timeWeek": 1130,
+    "timeMonth": 1214,
+    "timeYear": 1418,
     "dailyMinutesDown": {
       "2025-11-03": 251,
       "2025-11-18": 138,
@@ -133,7 +136,8 @@
       "2026-06-16": 315,
       "2026-07-03": 414,
       "2026-07-02": 1440,
-      "2026-07-01": 908
+      "2026-07-01": 908,
+      "2026-07-10": 0
     }
   }
 ]
